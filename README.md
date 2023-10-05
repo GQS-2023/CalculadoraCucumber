@@ -14,13 +14,11 @@
 
 # Calculadora usando Gherkin e Cucumber
 
-<p align="center">Exemplo de uma calculadora de que realiza as operações básicas (soma, subtração, multiplicação e divisão) para dois números inteiros usando Gherkin e Cucumber.</p>
+<p>Exemplo de uma calculadora de que realiza as operações básicas (soma, subtração, multiplicação e divisão) para dois números inteiros usando Gherkin e Cucumber.</p>
 
 # Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
@@ -28,4 +26,11 @@
    * [Tecnologias](#tecnologias)
 <!--te-->
 
+### Features
 
+- [x] Somar 2 números
+- [x] Subtrair 2 números
+- [x] Multiplicar 2 números
+- [x] Dividir 2 números
+
+# Pré-requisitos
