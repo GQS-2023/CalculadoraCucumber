@@ -9,8 +9,8 @@
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
-https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg
+  <img align="center" alt="Maven" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
+
 
 </div>
 # CalculadoraCucumber
