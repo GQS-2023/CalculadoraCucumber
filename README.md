@@ -12,25 +12,46 @@
   <img align="center" alt="Maven" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
 </div>
 
-# Calculadora usando Gherkin e Cucumber
+# 💻 Calculadora usando Gherkin e Cucumber
 
-<p>Exemplo de uma calculadora de que realiza as operações básicas (soma, subtração, multiplicação e divisão) para dois números inteiros usando Gherkin e Cucumber.</p>
+<p> Exemplo de uma calculadora de que realiza as operações básicas (soma, subtração, multiplicação e divisão) para dois números inteiros usando Gherkin e Cucumber.</p>
 
-# Tabela de conteúdos
-=================
-<!--ts-->
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+<h4 align="center"> 
+	🚧  Calculadora Concluída 🚀 🚧
+</h4>
 
-### Features
+<p align="center">
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
+
+
+### ⚙️ Funcionalidades
 
 - [x] Somar 2 números
 - [x] Subtrair 2 números
 - [x] Multiplicar 2 números
 - [x] Dividir 2 números
 
-# Pré-requisitos
+# ✨ Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Java](https://www.oracle.com/br/java/technologies/downloads/), [Apache Netbeans] (https://netbeans.apache.org/) 
+
+### 🛠 Tecnologias
+- [x] JAVA
+- [x] Apache Netbeans 18 
+- [x] Cucumber-Java 7.14.0
+- [x] Cucumber-Junit 7.14.0
+
+## 🦸 Autor
+
+Rafaela Priscila Cruz Moreira
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+
