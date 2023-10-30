@@ -14,7 +14,7 @@
 
 # 💻 Calculadora usando Gherkin e Cucumber
 
-<p> Exemplo de uma calculadora de que realiza as operações básicas (soma, subtração, multiplicação e divisão) para dois números inteiros usando Gherkin e Cucumber.</p>
+<p> Exemplo de uma calculadora que realiza as operações básicas (soma, subtração, multiplicação e divisão) para dois números inteiros usando Gherkin e Cucumber.</p>
 
 <h4 align="center"> 
 	🚧  Calculadora Concluída 🚀 🚧
